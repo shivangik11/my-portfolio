@@ -1,0 +1,1835 @@
+/* screen - 1920-about */
+
+.x1920-about {
+  background-color: var(--white);
+  height: 2828px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.x1920-about .overlap-group7 {
+  height: 2828px;
+  left: -1px;
+  position: relative;
+  width: 1921px;
+}
+
+.x1920-about .overlap-group6 {
+  height: 2828px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.x1920-about .hello_ {
+  background-color: #dbdbdb9a;
+  height: 809px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.x1920-about .img_9395 {
+  height: 540px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 535px;
+}
+
+.x1920-about .line-64 {
+  height: 2430px;
+  left: 856px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 5px;
+}
+
+.x1920-about .shivangi-khandelwal {
+  color: var(--vivid-violet);
+  font-family: var(--font-family-poppins);
+  font-size: 60px;
+  font-weight: 800;
+  left: 553px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+}
+
+.x1920-about .uiux-designer {
+  color: #4d4c4d;
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 300;
+  left: 692px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 274px;
+  white-space: nowrap;
+}
+
+.x1920-about .rectangle-125 {
+  background-color: var(--vivid-violet);
+  height: 2586px;
+  left: 1px;
+  position: absolute;
+  top: 242px;
+  width: 140px;
+}
+
+.x1920-about .rectangle-126 {
+  background-color: var(--vivid-violet);
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 212px;
+  width: 545px;
+}
+
+.x1920-about .path-154 {
+  height: 240px;
+  left: 883px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 604px;
+}
+
+.x1920-about .overlap-group-container {
+  height: 58px;
+  left: 1468px;
+  position: absolute;
+  top: 129px;
+  width: 54px;
+}
+
+.x1920-about .overlap-group-1 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 53px;
+}
+
+.x1920-about .path-119 {
+  height: 45px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.x1920-about .path-120 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.x1920-about .path-121 {
+  height: 14px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 4px;
+}
+
+.x1920-about .line-17 {
+  height: 13px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 6px;
+}
+
+.x1920-about .line-18 {
+  height: 10px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 10px;
+}
+
+.x1920-about .overlap-group1 {
+  height: 48px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.x1920-about .group-1283 {
+  height: 35px;
+  left: 1332px;
+  position: absolute;
+  top: 49px;
+  width: 449px;
+}
+
+.x1920-about .component-36-9 {
+  cursor: pointer;
+  height: 30px;
+  left: 347px;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.x1920-about .overlap-group-2 {
+  height: 32px;
+  position: relative;
+}
+
+.x1920-about .rectangle-1538 {
+  background-color: var(--white);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.x1920-about .place {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-about .rectangle-1539 {
+  cursor: pointer;
+  height: 27px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+
+.x1920-about .rectangle-1539:hover {
+  background-color: #A348A0
+}
+
+.x1920-about .home {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.x1920-about .place-1 {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.x1920-about .place-1:hover {
+  color: #A348A0
+}
+
+.x1920-about .work {
+  cursor: pointer;
+  height: 33px;
+  left: 117px;
+  position: absolute;
+  top: 2px;
+  width: 46px;
+}
+
+.x1920-about .work-1 {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.x1920-about .work-1:hover {
+  color: #A348A0
+}
+
+.x1920-about .resume {
+  height: 33px;
+  left: 225px;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.x1920-about .about {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-1331 {
+  height: 281px;
+  left: 876px;
+  position: absolute;
+  top: 427px;
+  width: 907px;
+}
+
+.x1920-about .overlap-group-3 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.x1920-about .rectangle-122-1 {
+  background-color: var(--vivid-violet);
+  border-radius: 15px;
+  height: 52px;
+  left: 0;
+  opacity: 0.79;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.x1920-about .rectangle-121-1 {
+  border-radius: 12px;
+  height: 51px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 133px;
+}
+
+.x1920-about .about-1 {
+  height: 32px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.x1920-about .i-am-highly-motivat {
+  height: 200px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 77px;
+  width: 907px;
+}
+
+.x1920-about .group-1300 {
+  height: 337px;
+  left: 876px;
+  position: absolute;
+  top: 743px;
+  width: 905px;
+}
+
+.x1920-about .group-1293 {
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 907px;
+}
+
+.x1920-about .masters-of-science {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 100px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 34px;
+  width: 897px;
+}
+
+.x1920-about .span1 {
+  font-weight: 500;
+}
+
+.x1920-about .the-university-of-co {
+  height: 31px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+  width: 907px;
+}
+
+.x1920-about .overlap-group-4 {
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 225px;
+  width: 907px;
+}
+
+.x1920-about .bachelors-in-archit {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 66px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 42px;
+  width: 897px;
+}
+
+.x1920-about .bhanuben-nanavati-co {
+  height: 43px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 907px;
+}
+
+.x1920-about .overlap-group {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.x1920-about .rectangle-122 {
+  background-color: var(--vivid-violet);
+  border-radius: 15px;
+  height: 52px;
+  left: 0;
+  opacity: 0.79;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.x1920-about .rectangle-121 {
+  border-radius: 12px;
+  height: 51px;
+  left: 3px;
+  position: absolute;
+  top: 4px;
+  width: 168px;
+}
+
+.x1920-about .education {
+  height: 32px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.x1920-about .group-1341 {
+  cursor: pointer;
+  height: 108px;
+  left: 141px;
+  position: absolute;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 228px;
+}
+
+.x1920-about .group-1341:hover {
+  transform: scale(1.1);
+}
+
+.x1920-about .overlap-group-container-1 {
+  height: 114px;
+  position: relative;
+}
+
+.x1920-about .overlap-group2 {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 212px;
+}
+
+.x1920-about .group-5 {
+  height: 69px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 165px;
+}
+
+.x1920-about .overlap-group1-1 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-about .path-119-1 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-about .path-120-1 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-about .path-121-1 {
+  height: 6px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.x1920-about .line-17-1 {
+  height: 6px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 3px;
+}
+
+.x1920-about .line-18-1 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x1920-about .shivangi-khandelwal-1 {
+  left: 20px;
+  letter-spacing: 0.16px;
+  line-height: 16px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.x1920-about .path-3798 {
+  height: 48px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 197px;
+}
+
+.x1920-about .path-3801 {
+  height: 22px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 11px;
+}
+
+.x1920-about .path-3802 {
+  height: 12px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 9px;
+}
+
+.x1920-about .path-3937 {
+  height: 12px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 26px;
+}
+
+.x1920-about .path-3936 {
+  height: 7px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 15px;
+}
+
+.x1920-about .path-3938 {
+  height: 12px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 12px;
+}
+
+.x1920-about .overlap-group-5 {
+  height: 21px;
+  left: 204px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-about .path-119-2 {
+  height: 20px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-about .path-121-2 {
+  height: 6px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.x1920-about .line-17-2 {
+  height: 6px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 3px;
+}
+
+.x1920-about .line-18-2 {
+  height: 4px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x1920-about .overlap-group4 {
+  height: 567px;
+  left: 876px;
+  position: absolute;
+  top: 2216px;
+  width: 900px;
+}
+
+.x1920-about .group-container {
+  height: 501px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.x1920-about .group-1299 {
+  height: 501px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 802px;
+}
+
+.x1920-about .overlap-group-6 {
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 416px;
+  width: 804px;
+}
+
+.x1920-about .software-certificati {
+  height: 41px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 804px;
+}
+
+.x1920-about .adobe-photoshop-ado {
+  height: 41px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 40px;
+  width: 804px;
+}
+
+.x1920-about .overlap-group1-2 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.x1920-about .rectangle-122-2 {
+  background-color: var(--vivid-violet);
+  border-radius: 15px;
+  height: 52px;
+  left: 0;
+  opacity: 0.79;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.x1920-about .rectangle-121-2 {
+  border-radius: 12px;
+  height: 51px;
+  left: 3px;
+  position: absolute;
+  top: 4px;
+  width: 176px;
+}
+
+.x1920-about .certificates {
+  height: 32px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.x1920-about .group-1295 {
+  height: 356px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 887px;
+}
+
+.x1920-about .designed-and-proto {
+  height: 309px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 44px;
+  width: 887px;
+}
+
+.x1920-about .uiux-design-boot-camp {
+  height: 38px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+  width: 426px;
+}
+
+.x1920-about .awarded-as-best-desi {
+  height: 77px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 490px;
+  width: 900px;
+}
+
+.x1920-about .place-2 {
+  left: 232px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 862px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-1288 {
+  height: 1193px;
+  left: 158px;
+  position: absolute;
+  top: 1327px;
+  width: 419px;
+}
+
+.x1920-about .skills {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-about .overlap-group3 {
+  height: 1102px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 421px;
+}
+
+.x1920-about .group-1309 {
+  height: 1102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 421px;
+}
+
+.x1920-about .group-31 {
+  background-color: var(--blue-charcoal);
+  border: 8px solid #459fd3;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.x1920-about .icon-simple-adobephotoshop {
+  height: 25px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 28px;
+}
+
+.x1920-about .group-29 {
+  background-color: var(--haiti);
+  border: 8px solid #a692e6;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 276px;
+  width: 60px;
+}
+
+.x1920-about .ae {
+  color: #a692e6;
+  font-family: var(--font-family-poppins);
+  font-size: 29px;
+  font-weight: 500;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-58 {
+  background-color: var(--haiti);
+  border: 8px solid #eb5391;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 368px;
+  width: 60px;
+}
+
+.x1920-about .id {
+  color: #eb5391;
+  font-family: var(--font-family-poppins);
+  font-size: 29px;
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-59 {
+  background-color: var(--haiti);
+  border: 8px solid #999df8;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 458px;
+  width: 60px;
+}
+
+.x1920-about .pr {
+  color: #999df8;
+  font-family: var(--font-family-poppins);
+  font-size: 29px;
+  font-weight: 500;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-28 {
+  background-color: #1c0901;
+  border: 8px solid var(--red-damask);
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 92px;
+  width: 60px;
+}
+
+.x1920-about .ai {
+  color: var(--red-damask);
+  font-family: var(--font-family-poppins);
+  font-size: 29px;
+  font-weight: 500;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-30 {
+  background-color: #130508;
+  border: 8px solid var(--orchid);
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 184px;
+  width: 60px;
+}
+
+.x1920-about .xd {
+  color: var(--orchid);
+  font-family: var(--font-family-poppins);
+  font-size: 29px;
+  font-weight: 500;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-53 {
+  background-color: #d13b5f;
+  height: 43px;
+  left: 10px;
+  position: absolute;
+  top: 547px;
+  width: 60px;
+}
+
+.x1920-about .p5 {
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: 34px;
+  font-weight: 700;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-57 {
+  height: 46px;
+  left: 23px;
+  position: absolute;
+  top: 700px;
+  width: 35px;
+}
+
+.x1920-about .group-54 {
+  background-color: var(--terracotta);
+  border-radius: 15px;
+  height: 15px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.x1920-about .rectangle-129 {
+  background-color: var(--terracotta);
+  height: 15px;
+  width: 9px;
+}
+
+.x1920-about .group-55 {
+  background-color: var(--flame-pea);
+  border-radius: 15px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.x1920-about .rectangle-129-1 {
+  background-color: var(--flame-pea);
+  height: 15px;
+  left: 9px;
+  position: relative;
+  width: 9px;
+}
+
+.x1920-about .group-56 {
+  background-color: var(--medium-purple);
+  border-radius: 15px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 18px;
+}
+
+.x1920-about .rectangle-129-2 {
+  background-color: var(--medium-purple);
+  height: 15px;
+  left: 9px;
+  position: relative;
+  width: 9px;
+}
+
+.x1920-about .ellipse-24 {
+  background-color: #52b5ef;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 18px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.x1920-about .overlap-group-7 {
+  background-color: var(--emerald);
+  border-radius: 8px;
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 30px;
+  width: 16px;
+}
+
+.x1920-about .rectangle-130 {
+  background-color: var(--emerald);
+  height: 7px;
+  left: 9px;
+  position: relative;
+  width: 7px;
+}
+
+.x1920-about .image-1 {
+  height: 65px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 931px;
+  width: 60px;
+}
+
+.x1920-about .adobe-photoshop {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.x1920-about .adobe-illustrator {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 112px;
+  white-space: nowrap;
+}
+
+.x1920-about .adobe-xd {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 204px;
+  white-space: nowrap;
+}
+
+.x1920-about .adobe-after-effects {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 296px;
+  white-space: nowrap;
+}
+
+.x1920-about .adobe-indesign {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.x1920-about .adobe-premier-pro {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 480px;
+  white-space: nowrap;
+}
+
+.x1920-about .p5js-java-script-language {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 561px;
+  white-space: nowrap;
+}
+
+.x1920-about .figma {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 713px;
+  white-space: nowrap;
+}
+
+.x1920-about .zeplin {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 786px;
+  white-space: nowrap;
+}
+
+.x1920-about .sketch {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 870px;
+  white-space: nowrap;
+}
+
+.x1920-about .csshtml {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 642px;
+  white-space: nowrap;
+}
+
+.x1920-about .sketch-up-3-d {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 953px;
+  white-space: nowrap;
+}
+
+.x1920-about .autodesk-autocad {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 1051px;
+  white-space: nowrap;
+}
+
+.x1920-about .image-2 {
+  height: 81px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1021px;
+  width: 81px;
+}
+
+.x1920-about .x228x228 {
+  height: 50px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 771px;
+  width: 50px;
+}
+
+.x1920-about .css3_logo_and_wordmarksvg {
+  height: 49px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 620px;
+  width: 35px;
+}
+
+.x1920-about .sketch-2-logo-png-transparent {
+  height: 45px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 854px;
+  width: 49px;
+}
+
+.x1920-about .group-1308 {
+  height: 206px;
+  left: 158px;
+  position: absolute;
+  top: 2572px;
+  width: 638px;
+}
+
+.x1920-about .hobbies {
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-71 {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+  width: 118px;
+}
+
+.x1920-about .photo-camera {
+  height: 69px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.x1920-about .photography {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-72 {
+  height: 104px;
+  left: 551px;
+  position: absolute;
+  top: 82px;
+  width: 89px;
+}
+
+.x1920-about .map-location {
+  height: 72px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.x1920-about .travelling {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-73 {
+  height: 100px;
+  left: 291px;
+  position: absolute;
+  top: 86px;
+  width: 67px;
+}
+
+.x1920-about .music-player {
+  height: 66px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.x1920-about .music {
+  color: var(--cod-gray);
+  font-family: var(--font-family-poppins);
+  font-size: 19px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 77px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-74 {
+  height: 83px;
+  left: 403px;
+  position: absolute;
+  top: 103px;
+  width: 102px;
+}
+
+.x1920-about .overlap-group-8 {
+  height: 52px;
+  left: -2px;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.x1920-about .path-151 {
+  height: 37px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 51px;
+}
+
+.x1920-about .ellipse-26 {
+  border: 3px solid #101010;
+  border-radius: 9.79px/10.02px;
+  height: 20px;
+  left: 63px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.x1920-about .path-152 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 106px;
+}
+
+.x1920-about .path-153 {
+  height: 10px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 42px;
+}
+
+.x1920-about .swimming {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 61px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-75 {
+  height: 121px;
+  left: 162px;
+  position: absolute;
+  top: 85px;
+  width: 86px;
+}
+
+.x1920-about .icon-awesome-user-nurse {
+  height: 64px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: 48px;
+}
+
+.x1920-about .fashionblogging {
+  color: var(--cod-gray);
+  font-family: var(--font-family-poppins);
+  font-size: 19px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-1323 {
+  height: 316px;
+  left: 175px;
+  position: absolute;
+  top: 937px;
+  width: 587px;
+}
+
+.x1920-about .group-48 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 211px;
+}
+
+.x1920-about .icon-awesome-phone-container {
+  height: 39px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 38px;
+}
+
+.x1920-about .icon-awesome-phone {
+  height: 36px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 36px;
+}
+
+.x1920-about .icon-awesome-phone-1 {
+  height: 37px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.x1920-about .phone {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-50 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+  width: 452px;
+}
+
+.x1920-about .shivangikhandelwal271gmailcom {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-about .overlap-group-container-2 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 48px;
+}
+
+.x1920-about .path-container {
+  height: 32px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 46px;
+}
+
+.x1920-about .path-149 {
+  height: 28px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 46px;
+}
+
+.x1920-about .path-150 {
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.x1920-about .path-container-1 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.x1920-about .path-149-1 {
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 47px;
+}
+
+.x1920-about .path-150-1 {
+  height: 21px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.x1920-about .group-1287 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 215px;
+  width: 589px;
+}
+
+.x1920-about .icon-awesome-linkedin-in-container {
+  height: 33px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 34px;
+}
+
+.x1920-about .icon-awesome-linkedin-in {
+  height: 31px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 32px;
+}
+
+.x1920-about .icon-awesome-linkedin-in-1 {
+  height: 32px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.x1920-about .linkedincominshiv {
+  cursor: pointer;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-1285 {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 285px;
+  width: 521px;
+}
+
+.x1920-about .wwwshivangikhandelwalcom {
+  cursor: pointer;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-about .icon-material-web-container {
+  height: 29px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 37px;
+}
+
+.x1920-about .icon-material-web {
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 35px;
+}
+
+.x1920-about .icon-material-web-1 {
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.x1920-about .portfolio {
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-1321 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 254px;
+}
+
+.x1920-about .icon-material-location-on-container {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 28px;
+}
+
+.x1920-about .icon-material-location-on {
+  height: 36px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.x1920-about .icon-material-location-on-1 {
+  height: 37px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.x1920-about .boulder-colorado {
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-about .group-1301 {
+  height: 1066px;
+  left: 876px;
+  position: absolute;
+  top: 1115px;
+  width: 915px;
+}
+
+.x1920-about .group-1291 {
+  height: 277px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+  width: 907px;
+}
+
+.x1920-about .designed-and-devel {
+  height: 197px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 76px;
+  width: 891px;
+}
+
+.x1920-about .uiux-designer-freel {
+  height: 83px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: -7px;
+  width: 907px;
+}
+
+.x1920-about .overlap-group-9 {
+  height: 345px;
+  left: 0;
+  position: absolute;
+  top: 62px;
+  width: 907px;
+}
+
+.x1920-about .analysing-and-rese {
+  height: 265px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 80px;
+  width: 902px;
+}
+
+.x1920-about .student-technology-c {
+  height: 81px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  width: 907px;
+}
+
+.x1920-about .overlap-group1-3 {
+  height: 208px;
+  left: 2px;
+  position: absolute;
+  top: 726px;
+  width: 915px;
+}
+
+.x1920-about .engaged-in-project {
+  height: 132px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 76px;
+  width: 889px;
+}
+
+.x1920-about .ab-dongre-consultan {
+  height: 77px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  width: 915px;
+}
+
+.x1920-about .group-1333 {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 960px;
+  width: 911px;
+}
+
+.x1920-about .designed-and-develop {
+  height: 67px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 36px;
+  width: 891px;
+}
+
+.x1920-about .other-projects {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+  width: 911px;
+}
+
+.x1920-about .experience {
+  height: 32px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 171px;
+}

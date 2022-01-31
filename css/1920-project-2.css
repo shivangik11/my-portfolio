@@ -1,0 +1,4536 @@
+/* screen - 1920-project-2 */
+
+.x1920-project-2 {
+  background-color: var(--white);
+  height: 12960px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.x1920-project-2 .overlap-group42 {
+  height: 7560px;
+  left: -330px;
+  position: absolute;
+  top: 5400px;
+  width: 2804px;
+}
+
+.x1920-project-2 .group-1228 {
+  background-image: url(../img/foot@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1085px;
+  left: 330px;
+  position: absolute;
+  top: 6475px;
+  width: 1920px;
+}
+
+.x1920-project-2 .group-1095 {
+  height: 323px;
+  left: 208px;
+  position: absolute;
+  top: 280px;
+  width: 1472px;
+}
+
+.x1920-project-2 .surname {
+  color: #fffafa;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 246px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1265 {
+  height: 172px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 675px;
+}
+
+.x1920-project-2 .path-container {
+  height: 152px;
+  left: 128px;
+  position: absolute;
+  top: -10px;
+  width: 567px;
+}
+
+.x1920-project-2 .path-3770 {
+  height: 152px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.x1920-project-2 .path-3771 {
+  height: 152px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.x1920-project-2 .path-3772 {
+  height: 152px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.x1920-project-2 .path-3769 {
+  height: 152px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.x1920-project-2 .rectangle-1431 {
+  background-color: var(--yellow-green);
+  box-shadow: 5px 5px 10px #ffffff60;
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.x1920-project-2 .c8-e86-d {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 144px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .x9-fb950 {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .x89-bf32 {
+  left: 289px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .x63980-f {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .phone {
+  left: 568px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1264 {
+  height: 303px;
+  left: 902px;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.x1920-project-2 .poppins-is-one-of-th {
+  color: #fffafa;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 252px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group2 {
+  height: 213px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 214px;
+}
+
+.x1920-project-2 .aa {
+  color: #fff7f7;
+  font-family: var(--font-family-poppins);
+  font-size: 150px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 150px;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .poppins {
+  color: #fffdfd;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 51px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1093 {
+  height: 53px;
+  left: 278px;
+  position: absolute;
+  top: 52px;
+  width: 276px;
+}
+
+.x1920-project-2 .overlap-group-1 {
+  height: 34px;
+  left: 96px;
+  position: absolute;
+  top: 14px;
+  width: 182px;
+}
+
+.x1920-project-2 .abcdefghijklmnopqrstuvwxyz {
+  left: 0;
+  letter-spacing: 0.12px;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .text {
+  left: 0;
+  letter-spacing: 0.12px;
+  line-height: 12px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group1 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 79px;
+}
+
+.x1920-project-2 .aa-1 {
+  color: var(--romance);
+  font-family: var(--font-family-poppins);
+  font-size: 38px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0.38px;
+  line-height: 38px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .regular {
+  left: -15px;
+  letter-spacing: 0.12px;
+  line-height: 12px;
+  position: absolute;
+  top: 15px;
+  transform: rotate(270deg);
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1092 {
+  height: 53px;
+  left: 278px;
+  position: absolute;
+  top: 134px;
+  width: 292px;
+}
+
+.x1920-project-2 .overlap-group-2 {
+  height: 34px;
+  left: 103px;
+  position: absolute;
+  top: 14px;
+  width: 191px;
+}
+
+.x1920-project-2 .aa-2 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 38px;
+  font-weight: 700;
+  left: 25px;
+  letter-spacing: 0.38px;
+  line-height: 38px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .bold {
+  left: -6px;
+  letter-spacing: 0.12px;
+  line-height: 12px;
+  position: absolute;
+  top: 21px;
+  transform: rotate(270deg);
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1338 {
+  cursor: pointer;
+  height: 25px;
+  left: 1633px;
+  position: absolute;
+  top: 1010px;
+  transition: all 0.2s ease;
+  width: 145px;
+}
+
+.x1920-project-2 .group-1338:hover {
+  transform: scale(1.1);
+}
+
+.x1920-project-2 .next-project {
+  color: var(--vista-white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .path-container-1 {
+  height: 25px;
+  left: 122px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.x1920-project-2 .path-3795 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.x1920-project-2 .path-3796 {
+  height: 25px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-project-2 .rectangle-1469 {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 330px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.x1920-project-2 .rectangle-1506 {
+  background-color: var(--white);
+  height: 1080px;
+  left: 330px;
+  position: absolute;
+  top: 1079px;
+  width: 1920px;
+}
+
+.x1920-project-2 .rectangle-1507 {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 330px;
+  position: absolute;
+  top: 3420px;
+  width: 1920px;
+}
+
+.x1920-project-2 .overlap-group5 {
+  height: 50px;
+  left: 470px;
+  position: absolute;
+  top: 49px;
+  width: 148px;
+}
+
+.x1920-project-2 .rectangle-1442 {
+  background-color: var(--sushi);
+  height: 19px;
+  left: 34px;
+  position: absolute;
+  top: 30px;
+  width: 114px;
+}
+
+.x1920-project-2 .ideate {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group6 {
+  height: 50px;
+  left: 470px;
+  position: absolute;
+  top: 3700px;
+  width: 173px;
+}
+
+.x1920-project-2 .rectangle-1442-1 {
+  background-color: var(--sushi);
+  height: 19px;
+  left: 60px;
+  position: absolute;
+  top: 30px;
+  width: 113px;
+}
+
+.x1920-project-2 .testing {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group7 {
+  height: 50px;
+  left: 470px;
+  position: absolute;
+  top: 6518px;
+  width: 154px;
+}
+
+.x1920-project-2 .rectangle-1442-2 {
+  background-color: var(--sushi);
+  height: 19px;
+  left: 47px;
+  position: absolute;
+  top: 32px;
+  width: 107px;
+}
+
+.x1920-project-2 .details {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 34px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group8 {
+  height: 50px;
+  left: 470px;
+  position: absolute;
+  top: 1134px;
+  width: 211px;
+}
+
+.x1920-project-2 .rectangle-1442-3 {
+  background-color: var(--sushi);
+  height: 19px;
+  left: 72px;
+  position: absolute;
+  top: 30px;
+  width: 139px;
+}
+
+.x1920-project-2 .prototype {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group16 {
+  height: 736px;
+  left: 238px;
+  position: absolute;
+  top: 4488px;
+  width: 1286px;
+}
+
+.x1920-project-2 .iphone-x-xs-pro-container-1 {
+  height: 544px;
+  left: 224px;
+  position: absolute;
+  top: 98px;
+  width: 840px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro {
+  height: 544px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-3 {
+  height: 544px;
+  left: 274px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 291px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-4 {
+  height: 544px;
+  left: 550px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.x1920-project-2 .x89354-copy {
+  height: 736px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .x89354-copy-5 {
+  height: 736px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .x89354-copy-6 {
+  height: 736px;
+  left: 550px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .overlap-group17 {
+  height: 736px;
+  left: 471px;
+  position: absolute;
+  top: 4840px;
+  width: 1872px;
+}
+
+.x1920-project-2 .path-376 {
+  height: 337px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 262px;
+  width: 1629px;
+}
+
+.x1920-project-2 .iphone-x-xs-pro-container {
+  height: 544px;
+  left: 828px;
+  position: absolute;
+  top: 96px;
+  width: 842px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-6 {
+  height: 544px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 291px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-7 {
+  height: 544px;
+  left: 552px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-55 {
+  height: 484px;
+  left: 847px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .x89354-copy-1 {
+  height: 736px;
+  left: 584px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-56 {
+  height: 484px;
+  left: 1122px;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: 231px;
+}
+
+.x1920-project-2 .x89354-copy-2 {
+  height: 736px;
+  left: 858px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-57 {
+  height: 485px;
+  left: 1399px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 231px;
+}
+
+.x1920-project-2 .x89354-copy-3 {
+  height: 736px;
+  left: 1136px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .overlap-group18 {
+  height: 736px;
+  left: 240px;
+  position: absolute;
+  top: 5190px;
+  width: 1870px;
+}
+
+.x1920-project-2 .path-3765 {
+  height: 337px;
+  left: 246px;
+  object-fit: cover;
+  position: absolute;
+  top: 262px;
+  width: 1625px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-58 {
+  height: 484px;
+  left: 240px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 231px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-59 {
+  height: 484px;
+  left: 518px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .x89354-copy-4 {
+  height: 736px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-60 {
+  height: 484px;
+  left: 794px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .x89354-copy-7 {
+  height: 736px;
+  left: 551px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.x1920-project-2 .information-architecture {
+  left: 470px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group25 {
+  height: 736px;
+  left: 471px;
+  position: absolute;
+  top: 5542px;
+  width: 1872px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-62 {
+  height: 483px;
+  left: 847px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-63 {
+  height: 483px;
+  left: 1122px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-64 {
+  height: 490px;
+  left: 1397px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 233px;
+}
+
+.x1920-project-2 .overlap-group27 {
+  height: 736px;
+  left: 238px;
+  position: absolute;
+  top: 5808px;
+  width: 1012px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-65 {
+  height: 484px;
+  left: 244px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-66 {
+  height: 483px;
+  left: 518px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 230px;
+}
+
+.x1920-project-2 .x89354-copy-8 {
+  height: 45px;
+  left: 551px;
+  object-fit: cover;
+  position: absolute;
+  top: 691px;
+  width: 45px;
+}
+
+.x1920-project-2 .group-1205 {
+  height: 872px;
+  left: 694px;
+  position: absolute;
+  top: 186px;
+  width: 1416px;
+}
+
+.x1920-project-2 .overlap-group28 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 638px;
+}
+
+.x1920-project-2 .line-574 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 573px;
+}
+
+.x1920-project-2 .group-1179 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 38px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .place {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1180 {
+  background-color: var(--gossip);
+  border-radius: 12px;
+  height: 49px;
+  left: 196px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .splashscreen {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1181 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 352px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .have-anaccount {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1182 {
+  background-image: url(../img/path-3742@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 49px;
+  left: 510px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .signup {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group29 {
+  height: 606px;
+  left: 196px;
+  position: absolute;
+  top: 50px;
+  width: 596px;
+}
+
+.x1920-project-2 .line-575 {
+  height: 557px;
+  left: 220px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.x1920-project-2 .group-1183 {
+  background-color: #d2e8b0fe;
+  border: 2px solid #2d683dfe;
+  border-radius: 12px;
+  height: 49px;
+  left: 156px;
+  position: absolute;
+  top: 52px;
+  width: 128px;
+}
+
+.x1920-project-2 .login {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1187 {
+  background-color: var(--gossip);
+  border-radius: 12px;
+  height: 49px;
+  left: 156px;
+  position: absolute;
+  top: 152px;
+  width: 128px;
+}
+
+.x1920-project-2 .track {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1194 {
+  background-color: var(--gossip);
+  border-radius: 12px;
+  height: 49px;
+  left: 156px;
+  position: absolute;
+  top: 254px;
+  width: 128px;
+}
+
+.x1920-project-2 .reedem {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1199 {
+  background-color: var(--gossip);
+  border-radius: 12px;
+  height: 49px;
+  left: 156px;
+  position: absolute;
+  top: 354px;
+  width: 128px;
+}
+
+.x1920-project-2 .tips {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1201 {
+  background-color: var(--gossip);
+  border-radius: 12px;
+  height: 49px;
+  left: 156px;
+  position: absolute;
+  top: 456px;
+  width: 128px;
+}
+
+.x1920-project-2 .events {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1202 {
+  background-color: var(--gossip);
+  border-radius: 12px;
+  height: 49px;
+  left: 156px;
+  position: absolute;
+  top: 556px;
+  width: 128px;
+}
+
+.x1920-project-2 .profile {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1186 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 128px;
+}
+
+.x1920-project-2 .et-password {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1184 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 312px;
+  position: absolute;
+  top: 52px;
+  width: 128px;
+}
+
+.x1920-project-2 .group-1185 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 468px;
+  position: absolute;
+  top: 52px;
+  width: 128px;
+}
+
+.x1920-project-2 .already-insystem {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .line-576 {
+  height: 24px;
+  left: 382px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.x1920-project-2 .line-577 {
+  height: 1px;
+  left: 220px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.x1920-project-2 .line-578 {
+  height: 28px;
+  left: 532px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-579 {
+  height: 28px;
+  left: 382px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-580 {
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 157px;
+}
+
+.x1920-project-2 .line-581 {
+  height: 28px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x1920-project-2 .overlap-group30 {
+  height: 265px;
+  left: 481px;
+  position: absolute;
+  top: 607px;
+  width: 624px;
+}
+
+.x1920-project-2 .line-586 {
+  height: 200px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.x1920-project-2 .path-3768 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 509px;
+}
+
+.x1920-project-2 .group-1203 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 31px;
+  left: 28px;
+  position: absolute;
+  top: 65px;
+  width: 128px;
+}
+
+.x1920-project-2 .notification {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 28px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .settings {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1-1 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .your-activity {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1-2 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 340px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .profile-changes {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1-3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 496px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .refer-friend {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1206 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 31px;
+  left: 28px;
+  position: absolute;
+  top: 107px;
+  width: 128px;
+}
+
+.x1920-project-2 .privacy {
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1260 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 31px;
+  left: 28px;
+  position: absolute;
+  top: 149px;
+  width: 128px;
+}
+
+.x1920-project-2 .security {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1261 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 31px;
+  left: 28px;
+  position: absolute;
+  top: 191px;
+  width: 128px;
+}
+
+.x1920-project-2 .about {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1262 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 31px;
+  left: 28px;
+  position: absolute;
+  top: 233px;
+  width: 128px;
+}
+
+.x1920-project-2 .logout {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group33 {
+  height: 49px;
+  left: 481px;
+  position: absolute;
+  top: 404px;
+  width: 156px;
+}
+
+.x1920-project-2 .line-584 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 65px;
+}
+
+.x1920-project-2 .details-1 {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group34 {
+  height: 49px;
+  left: 481px;
+  position: absolute;
+  top: 505px;
+  width: 468px;
+}
+
+.x1920-project-2 .line-594 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 367px;
+}
+
+.x1920-project-2 .today {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .tomorrow {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .next-week {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group31 {
+  height: 49px;
+  left: 481px;
+  position: absolute;
+  top: 303px;
+  width: 624px;
+}
+
+.x1920-project-2 .line-583 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 522px;
+}
+
+.x1920-project-2 .activity {
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .summary {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group32 {
+  height: 49px;
+  left: 481px;
+  position: absolute;
+  top: 202px;
+  width: 936px;
+}
+
+.x1920-project-2 .line-582 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 913px;
+}
+
+.x1920-project-2 .activity-1 {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .place-1 {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1190 {
+  background-image: url(../img/path-3743@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 49px;
+  left: 340px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .time {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1192 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 652px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .group-1193 {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 49px;
+  left: 808px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.x1920-project-2 .overlap-group35 {
+  height: 2136px;
+  left: 450px;
+  position: absolute;
+  top: 1262px;
+  width: 1700px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-13 {
+  height: 596px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1490px;
+  width: 316px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-14 {
+  height: 596px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 315px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-15 {
+  height: 599px;
+  left: 1382px;
+  object-fit: cover;
+  position: absolute;
+  top: 822px;
+  width: 317px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-16 {
+  height: 596px;
+  left: 1384px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 316px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-17 {
+  height: 596px;
+  left: 691px;
+  object-fit: cover;
+  position: absolute;
+  top: 824px;
+  width: 316px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-18 {
+  height: 599px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 822px;
+  width: 316px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-19 {
+  height: 596px;
+  left: 349px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 315px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-20 {
+  height: 598px;
+  left: 1038px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 316px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-21 {
+  height: 596px;
+  left: 692px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 315px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-22 {
+  height: 596px;
+  left: 347px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 315px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-23 {
+  height: 599px;
+  left: 1038px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 317px;
+}
+
+.x1920-project-2 .line-530 {
+  height: 2031px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-531 {
+  height: 2031px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-532 {
+  height: 2031px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-533 {
+  height: 2031px;
+  left: 622px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-80 {
+  height: 531px;
+  left: 1407px;
+  object-fit: cover;
+  position: absolute;
+  top: 1516px;
+  width: 252px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-77 {
+  height: 531px;
+  left: 714px;
+  object-fit: cover;
+  position: absolute;
+  top: 1516px;
+  width: 253px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-76 {
+  height: 531px;
+  left: 1059px;
+  object-fit: cover;
+  position: absolute;
+  top: 1304px;
+  width: 253px;
+}
+
+.x1920-project-2 .line-534 {
+  height: 2031px;
+  left: 712px;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-535 {
+  height: 2031px;
+  left: 968px;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.x1920-project-2 .i-phone-x-xs-11-pro-75 {
+  height: 531px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 1304px;
+  width: 253px;
+}
+
+.x1920-project-2 .line-536 {
+  height: 2031px;
+  left: 1056px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-537 {
+  height: 2031px;
+  left: 1314px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-538 {
+  height: 2031px;
+  left: 1404px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.x1920-project-2 .group-1178 {
+  height: 1980px;
+  left: 46px;
+  object-fit: cover;
+  opacity: 0.34;
+  position: absolute;
+  top: 126px;
+  width: 1588px;
+}
+
+.x1920-project-2 .line-539 {
+  height: 2031px;
+  left: 1660px;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.x1920-project-2 .splash-screen {
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .reedem-1 {
+  left: 115px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 805px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .profile-1 {
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1472px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .settings-1 {
+  left: 816px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1484px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .settings-2 {
+  left: 1154px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1273px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .tips-1 {
+  left: 479px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1273px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .events-1 {
+  left: 1508px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1472px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .detail-activity {
+  left: 443px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 622px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .summary-1 {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 805px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .tips-2 {
+  left: 1172px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 622px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .activity-2 {
+  left: 1503px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 805px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .login-1 {
+  left: 474px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .signup-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .home-track {
+  left: 1138px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .summary-2 {
+  left: 1494px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .final-design {
+  left: 467px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 4546px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .low-fidelity-mockup {
+  left: 476px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 1202px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1220 {
+  background-image: url(../img/path-3757@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 830px;
+  left: 0;
+  position: absolute;
+  top: 245px;
+  width: 1091px;
+}
+
+.x1920-project-2 .path-3755 {
+  height: 395px;
+  left: 410px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 277px;
+}
+
+.x1920-project-2 .path-3756 {
+  height: 344px;
+  left: 698px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 172px;
+}
+
+.x1920-project-2 .path-3761 {
+  height: 1120px;
+  left: 1105px;
+  object-fit: cover;
+  position: absolute;
+  top: 3391px;
+  width: 1699px;
+}
+
+.x1920-project-2 .after-working-with-l {
+  height: 271px;
+  left: 470px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 3825px;
+  width: 554px;
+}
+
+.x1920-project-2 .ellipse-333 {
+  background-color: var(--sushi);
+  border-radius: 8px;
+  height: 16px;
+  left: 682px;
+  position: absolute;
+  top: 203px;
+  width: 16px;
+}
+
+.x1920-project-2 .path-container-2 {
+  height: 748px;
+  left: 1254px;
+  position: absolute;
+  top: 3522px;
+  width: 997px;
+}
+
+.x1920-project-2 .path-3758 {
+  height: 550px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 197px;
+  width: 232px;
+}
+
+.x1920-project-2 .path-3759 {
+  height: 653px;
+  left: 212px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 716px;
+}
+
+.x1920-project-2 .path-3760 {
+  height: 247px;
+  left: 180px;
+  object-fit: cover;
+  position: absolute;
+  top: 500px;
+  width: 817px;
+}
+
+.x1920-project-2 .colours-and-typography {
+  color: var(--christi);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-weight: 700;
+  left: 471px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 6716px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group40 {
+  height: 202px;
+  left: 471px;
+  position: absolute;
+  top: 7220px;
+  width: 724px;
+}
+
+.x1920-project-2 .inspiration-and-information {
+  color: var(--christi);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .wikipediacomcarbon {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group43 {
+  height: 3289px;
+  left: -326px;
+  position: absolute;
+  top: -49px;
+  width: 2675px;
+}
+
+.x1920-project-2 .path-3741 {
+  height: 1080px;
+  left: 1018px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 1228px;
+}
+
+.x1920-project-2 .rectangle-1432 {
+  background-color: var(--white);
+  height: 1080px;
+  left: 326px;
+  position: absolute;
+  top: 1129px;
+  width: 1920px;
+}
+
+.x1920-project-2 .rectangle-1466 {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 326px;
+  position: absolute;
+  top: 2209px;
+  width: 1920px;
+}
+
+.x1920-project-2 .group-1098 {
+  height: 273px;
+  left: 588px;
+  position: absolute;
+  top: 1280px;
+  width: 287px;
+}
+
+.x1920-project-2 .my-role {
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .icon-awesome {
+  height: 35px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.x1920-project-2 .i-worked-as-a-front {
+  height: 163px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  width: 287px;
+}
+
+.x1920-project-2 .group-1099 {
+  height: 259px;
+  left: 956px;
+  position: absolute;
+  top: 1280px;
+  width: 287px;
+}
+
+.x1920-project-2 .duration {
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .we-finished-the-proj {
+  height: 149px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  width: 287px;
+}
+
+.x1920-project-2 .group-1100 {
+  height: 260px;
+  left: 1324px;
+  position: absolute;
+  top: 1279px;
+  width: 287px;
+}
+
+.x1920-project-2 .tools-used {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .icon-awesome-1 {
+  height: 36px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.x1920-project-2 .the-entire-project-w {
+  height: 149px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  width: 287px;
+}
+
+.x1920-project-2 .group-1101 {
+  height: 303px;
+  left: 1692px;
+  position: absolute;
+  top: 1279px;
+  width: 287px;
+}
+
+.x1920-project-2 .learnings {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .it-helped-me-improve {
+  height: 192px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  width: 287px;
+}
+
+.x1920-project-2 .overlap-group3-1 {
+  height: 50px;
+  left: 1121px;
+  position: absolute;
+  top: 1694px;
+  width: 329px;
+}
+
+.x1920-project-2 .rectangle-1442-4 {
+  background-color: #a4c053;
+  height: 19px;
+  left: 186px;
+  position: absolute;
+  top: 31px;
+  width: 143px;
+}
+
+.x1920-project-2 .process-followed {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .line-545 {
+  height: 1px;
+  left: 466px;
+  object-fit: cover;
+  position: absolute;
+  top: 1932px;
+  width: 1640px;
+}
+
+.x1920-project-2 .group-1146 {
+  height: 226px;
+  left: 623px;
+  position: absolute;
+  top: 1813px;
+  width: 150px;
+}
+
+.x1920-project-2 .empathize {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group9 {
+  height: 180px;
+  left: 46px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .line-546 {
+  height: 116px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 2px;
+}
+
+.x1920-project-2 .ellipse-316 {
+  background-color: var(--yellow-green);
+  border-radius: 12px;
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 156px;
+  width: 24px;
+}
+
+.x1920-project-2 .group-1103 {
+  background-color: var(--yellow-green);
+  border-radius: 27px/27.5px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .icon-material-report-problem {
+  height: 33px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 33px;
+}
+
+.x1920-project-2 .group-1148 {
+  height: 222px;
+  left: 1241px;
+  position: absolute;
+  top: 1817px;
+  width: 92px;
+}
+
+.x1920-project-2 .ideate-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 188px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group10 {
+  height: 187px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .line-548 {
+  height: 124px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.x1920-project-2 .ellipse-319 {
+  background-color: var(--sushi);
+  border-radius: 10.8px;
+  height: 22px;
+  left: 14px;
+  position: absolute;
+  top: 166px;
+  width: 22px;
+}
+
+.x1920-project-2 .group-1104 {
+  background-color: var(--sushi);
+  border-radius: 27px/27.5px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .icon-awesome-lightbulb {
+  height: 30px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 21px;
+}
+
+.x1920-project-2 .group-1149 {
+  height: 221px;
+  left: 1513px;
+  position: absolute;
+  top: 1818px;
+  width: 138px;
+}
+
+.x1920-project-2 .prototype-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 188px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group11 {
+  height: 132px;
+  left: 57px;
+  position: absolute;
+  top: 54px;
+  width: 21px;
+}
+
+.x1920-project-2 .line-549 {
+  height: 121px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.x1920-project-2 .ellipse-320 {
+  background-color: var(--christi);
+  border-radius: 10.53px;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 111px;
+  width: 21px;
+}
+
+.x1920-project-2 .group-1106 {
+  background-color: var(--christi);
+  border-radius: 27px;
+  height: 54px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .group-1105 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 21px;
+  left: 17px;
+  position: absolute;
+  top: 23px;
+  width: 21px;
+}
+
+.x1920-project-2 .overlap-group-3 {
+  border-radius: 1px;
+  height: 8px;
+  left: 3px;
+  position: absolute;
+  top: 4px;
+  width: 15px;
+}
+
+.x1920-project-2 .rectangle-1434 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.x1920-project-2 .rectangle-1438 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.x1920-project-2 .rectangle-1439 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 12px;
+  width: 15px;
+}
+
+.x1920-project-2 .rectangle-1440 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 14px;
+  width: 15px;
+}
+
+.x1920-project-2 .rectangle-1441 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.x1920-project-2 .rectangle-1448 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 17px;
+  position: absolute;
+  top: 12px;
+  width: 21px;
+}
+
+.x1920-project-2 .overlap-group12 {
+  height: 1499px;
+  left: 165px;
+  position: absolute;
+  top: 0;
+  width: 2510px;
+}
+
+.x1920-project-2 .path-18 {
+  display: block;
+  height: 1499px;
+  left: 133px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(-50px, 0);
+  width: 1779px;
+}
+
+.x1920-project-2 .path-18.animate-enter {
+  animation: animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-50px, 0);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(-50px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.x1920-project-2 .path-30 {
+  height: 974px;
+  left: 1543px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 967px;
+}
+
+.x1920-project-2 .human-ill {
+  height: 513px;
+  left: 301px;
+  opacity: 0;
+  position: absolute;
+  top: 559px;
+  transform: translate(-50px, 0);
+  width: 478px;
+}
+
+.x1920-project-2 .human-ill.animate-enter1 {
+  animation: animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(-50px, 0);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: translate(-50px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.x1920-project-2 .overlap-group-4 {
+  height: 516px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 480px;
+}
+
+.x1920-project-2 .group-6 {
+  height: 463px;
+  left: 214px;
+  object-fit: cover;
+  opacity: 0.3;
+  position: absolute;
+  top: 52px;
+  width: 266px;
+}
+
+.x1920-project-2 .path-17 {
+  height: 516px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.x1920-project-2 .path-29 {
+  height: 147px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 979px;
+  width: 1166px;
+}
+
+.x1920-project-2 .path-container-3 {
+  height: 120px;
+  left: 423px;
+  position: absolute;
+  top: 211px;
+  width: 132px;
+}
+
+.x1920-project-2 .path-26 {
+  height: 57px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 83px;
+}
+
+.x1920-project-2 .path-27 {
+  height: 44px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 52px;
+}
+
+.x1920-project-2 .path-28 {
+  height: 39px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.x1920-project-2 .path-23 {
+  height: 81px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 78px;
+}
+
+.x1920-project-2 .path-24 {
+  height: 42px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 42px;
+}
+
+.x1920-project-2 .path-25 {
+  height: 36px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 34px;
+}
+
+.x1920-project-2 .path-3747 {
+  height: 57px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 59px;
+}
+
+.x1920-project-2 .path-3748 {
+  height: 35px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 36px;
+}
+
+.x1920-project-2 .path-3749 {
+  height: 32px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.x1920-project-2 .group-1150 {
+  height: 220px;
+  left: 1841px;
+  position: absolute;
+  top: 1819px;
+  width: 60px;
+}
+
+.x1920-project-2 .test {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 186px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group13 {
+  height: 164px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .line-550 {
+  height: 117px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.x1920-project-2 .group-1107 {
+  background-color: var(--killarney-2);
+  border-radius: 27px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.x1920-project-2 .icon-awesome-toolbox {
+  height: 25px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 28px;
+}
+
+.x1920-project-2 .ellipse-321 {
+  background-color: var(--killarney-2);
+  border-radius: 10.21px;
+  height: 20px;
+  left: 21px;
+  position: absolute;
+  top: 164px;
+  width: 20px;
+}
+
+.x1920-project-2 .group-1147 {
+  height: 224px;
+  left: 949px;
+  position: absolute;
+  top: 1815px;
+  width: 92px;
+}
+
+.x1920-project-2 .define {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group14 {
+  height: 178px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.x1920-project-2 .line-547 {
+  height: 120px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 2px;
+}
+
+.x1920-project-2 .ellipse-318 {
+  background-color: var(--celery);
+  border-radius: 11.3px;
+  height: 23px;
+  left: 18px;
+  position: absolute;
+  top: 155px;
+  width: 23px;
+}
+
+.x1920-project-2 .group-1108 {
+  background-color: var(--celery);
+  border-radius: 29px/28.5px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.x1920-project-2 .icon-awesome-user-friends {
+  height: 24px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 34px;
+}
+
+.x1920-project-2 .overlap-group15 {
+  height: 50px;
+  left: 466px;
+  position: absolute;
+  top: 2299px;
+  width: 213px;
+}
+
+.x1920-project-2 .rectangle-1442-5 {
+  background-color: var(--killarney-2);
+  height: 19px;
+  left: 80px;
+  position: absolute;
+  top: 32px;
+  width: 133px;
+}
+
+.x1920-project-2 .empathize-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1211 {
+  background-image: url(../img/path-3751@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 810px;
+  left: 1471px;
+  position: absolute;
+  top: 2479px;
+  width: 1154px;
+}
+
+.x1920-project-2 .overlap-group19 {
+  background-image: url(../img/path-3750@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 475px;
+  left: 313px;
+  position: relative;
+  top: 336px;
+  width: 624px;
+}
+
+.x1920-project-2 .path-3762 {
+  height: 76px;
+  left: 173px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 73px;
+}
+
+.x1920-project-2 .path-container-4 {
+  height: 1009px;
+  left: 91px;
+  position: absolute;
+  top: 1200px;
+  width: 674px;
+}
+
+.x1920-project-2 .path-22 {
+  height: 557px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.x1920-project-2 .path-21 {
+  height: 998px;
+  left: 220px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 454px;
+}
+
+.x1920-project-2 .path-container-5 {
+  height: 593px;
+  left: 1851px;
+  position: absolute;
+  top: 1617px;
+  width: 396px;
+}
+
+.x1920-project-2 .path-22-1 {
+  height: 327px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 395px;
+}
+
+.x1920-project-2 .path-21-1 {
+  height: 586px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 267px;
+}
+
+.x1920-project-2 .line-container {
+  height: 25px;
+  left: 696px;
+  position: absolute;
+  top: 2071px;
+  width: 590px;
+}
+
+.x1920-project-2 .line-571 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 588px;
+}
+
+.x1920-project-2 .line-572 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1920-project-2 .line-573 {
+  height: 25px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1920-project-2 .line-container-1 {
+  height: 25px;
+  left: 1580px;
+  position: absolute;
+  top: 2071px;
+  width: 291px;
+}
+
+.x1920-project-2 .line-571-1 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 288px;
+}
+
+.x1920-project-2 .line-573-1 {
+  height: 25px;
+  left: 289px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1920-project-2 .address {
+  left: 948px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 2093px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .address-1 {
+  left: 1682px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 2093px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .path-3746 {
+  height: 500px;
+  left: 1707px;
+  object-fit: cover;
+  position: absolute;
+  top: 643px;
+  width: 469px;
+}
+
+.x1920-project-2 .group-1209 {
+  height: 268px;
+  left: 1034px;
+  position: absolute;
+  top: 443px;
+  width: 561px;
+}
+
+.x1920-project-2 .surname-1 {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .ui-ux-boot-camp-project-2021 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .surname-2 {
+  height: 161px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 104px;
+  width: 561px;
+}
+
+.x1920-project-2 .group-1210 {
+  height: 895px;
+  left: 763px;
+  position: absolute;
+  top: 2372px;
+  width: 1046px;
+}
+
+.x1920-project-2 .group-1122 {
+  height: 383px;
+  left: 395px;
+  position: absolute;
+  top: 485px;
+  width: 298px;
+}
+
+.x1920-project-2 .group-1121 {
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.x1920-project-2 .who-will-be-the-users {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .icon-awesome-users {
+  height: 32px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.x1920-project-2 .the-users-targeted-w {
+  height: 275px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 106px;
+  width: 256px;
+}
+
+.x1920-project-2 .group-1125 {
+  height: 382px;
+  left: 0;
+  position: absolute;
+  top: 481px;
+  width: 295px;
+}
+
+.x1920-project-2 .group-1120 {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 297px;
+}
+
+.x1920-project-2 .defining-the-problem {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 46px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .icon-material-report-problem-1 {
+  height: 35px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.x1920-project-2 .given-the-facts-and {
+  height: 270px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+  width: 256px;
+}
+
+.x1920-project-2 .overlap-group36 {
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 284px;
+}
+
+.x1920-project-2 .group-1162 {
+  background-color: var(--celery);
+  height: 117px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 284px;
+}
+
+.x1920-project-2 .the-largest-single-s {
+  height: 94px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 256px;
+}
+
+.x1920-project-2 .facts {
+  color: #9fb950;
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-weight: 800;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .overlap-group-5 {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 248px;
+  width: 284px;
+}
+
+.x1920-project-2 .rectangle-1461 {
+  background-color: var(--celery);
+  height: 127px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 284px;
+}
+
+.x1920-project-2 .before-2030-tempera {
+  height: 175px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 256px;
+}
+
+.x1920-project-2 .group-1163 {
+  background-color: var(--celery);
+  height: 117px;
+  left: 387px;
+  position: absolute;
+  top: 53px;
+  width: 284px;
+}
+
+.x1920-project-2 .petroleum-based-fuel {
+  height: 95px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 256px;
+}
+
+.x1920-project-2 .group-1167 {
+  background-color: var(--celery);
+  height: 124px;
+  left: 387px;
+  position: absolute;
+  top: 248px;
+  width: 284px;
+}
+
+.x1920-project-2 .the-aviation-industr {
+  height: 77px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 256px;
+}
+
+.x1920-project-2 .overlap-group1-1 {
+  height: 119px;
+  left: 762px;
+  position: absolute;
+  top: 52px;
+  width: 284px;
+}
+
+.x1920-project-2 .rectangle-1461-1 {
+  background-color: var(--celery);
+  height: 117px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 284px;
+}
+
+.x1920-project-2 .electricity-generati {
+  height: 119px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 256px;
+}
+
+.x1920-project-2 .group-1165 {
+  background-color: var(--celery);
+  height: 124px;
+  left: 762px;
+  position: absolute;
+  top: 248px;
+  width: 284px;
+}
+
+.x1920-project-2 .the-digital-sector-c {
+  height: 96px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 256px;
+}
+
+.x1920-project-2 .group-1124 {
+  height: 417px;
+  left: 792px;
+  position: absolute;
+  top: 478px;
+  width: 256px;
+}
+
+.x1920-project-2 .group-1123 {
+  height: 83px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.x1920-project-2 .hypotheses {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1118 {
+  background-image: url(../img/icon-material-chat-bubble-outline@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 68px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.x1920-project-2 .icon-awesome-question {
+  height: 20px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
+.x1920-project-2 .here-is-the-solution {
+  height: 302px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 256px;
+}
+
+.x1920-project-2 .path-3752 {
+  height: 1006px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 1000px;
+}
+
+.x1920-project-2 .group-1283 {
+  height: 35px;
+  left: 1672px;
+  position: absolute;
+  top: 98px;
+  width: 449px;
+}
+
+.x1920-project-2 .component-36-7 {
+  cursor: pointer;
+  height: 30px;
+  left: 347px;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.x1920-project-2 .overlap-group-6 {
+  height: 32px;
+  position: relative;
+}
+
+.x1920-project-2 .rectangle-1538 {
+  background-color: var(--white);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.x1920-project-2 .place-2 {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .rectangle-1539 {
+  border: 1px solid #356d3e;
+  cursor: pointer;
+  height: 27px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+
+.x1920-project-2 .rectangle-1539:hover {
+  background-color: #356D3E
+}
+
+.x1920-project-2 .home {
+  cursor: pointer;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.x1920-project-2 .place-3 {
+  color: #000000cc;
+  cursor: pointer;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .place-3:hover {
+  color: #356D3E
+}
+
+.x1920-project-2 .work {
+  cursor: pointer;
+  height: 33px;
+  left: 117px;
+  position: absolute;
+  top: 2px;
+  width: 46px;
+}
+
+.x1920-project-2 .work-1 {
+  color: #356d3e;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .resume {
+  cursor: pointer;
+  height: 33px;
+  left: 225px;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.x1920-project-2 .about-1 {
+  color: #000000cb;
+  cursor: pointer;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .about-1:hover {
+  color: #356D3E
+}
+
+.x1920-project-2 .group-1341 {
+  cursor: pointer;
+  height: 108px;
+  left: 466px;
+  position: absolute;
+  top: 71px;
+  transition: all 0.2s ease;
+  width: 228px;
+}
+
+.x1920-project-2 .group-1341:hover {
+  transform: scale(1.1);
+}
+
+.x1920-project-2 .overlap-group-container {
+  height: 114px;
+  position: relative;
+}
+
+.x1920-project-2 .overlap-group2-1 {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 212px;
+}
+
+.x1920-project-2 .group-5 {
+  height: 69px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 165px;
+}
+
+.x1920-project-2 .overlap-group1-2 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-project-2 .path-119 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-project-2 .path-120 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-project-2 .path-121 {
+  height: 6px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.x1920-project-2 .line-17 {
+  height: 6px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 3px;
+}
+
+.x1920-project-2 .line-18 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x1920-project-2 .shivangi-khandelwal {
+  left: 20px;
+  letter-spacing: 0.16px;
+  line-height: 16px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .path-3798 {
+  height: 48px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 197px;
+}
+
+.x1920-project-2 .path-3801 {
+  height: 22px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 11px;
+}
+
+.x1920-project-2 .path-3802 {
+  height: 12px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 9px;
+}
+
+.x1920-project-2 .path-3937 {
+  height: 12px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 26px;
+}
+
+.x1920-project-2 .path-3936 {
+  height: 7px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 15px;
+}
+
+.x1920-project-2 .path-3938 {
+  height: 12px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 12px;
+}
+
+.x1920-project-2 .overlap-group-7 {
+  height: 21px;
+  left: 204px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-project-2 .path-119-1 {
+  height: 20px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-project-2 .path-121-1 {
+  height: 6px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.x1920-project-2 .line-17-1 {
+  height: 6px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 3px;
+}
+
+.x1920-project-2 .line-18-1 {
+  height: 4px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x1920-project-2 .overlap-group44 {
+  height: 1222px;
+  left: 0;
+  position: absolute;
+  top: 4178px;
+  width: 1920px;
+}
+
+.x1920-project-2 .path-3754 {
+  height: 1080px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 142px;
+  width: 1920px;
+}
+
+.x1920-project-2 .overlap-group21 {
+  height: 762px;
+  left: 278px;
+  position: absolute;
+  top: 10px;
+  width: 674px;
+}
+
+.x1920-project-2 .persona-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1161 {
+  background-color: #ffffff80;
+  border-radius: 68px;
+  box-shadow: -10px -10px 20px #0000000d;
+  height: 719px;
+  left: 26px;
+  position: absolute;
+  top: 44px;
+  width: 648px;
+}
+
+.x1920-project-2 .overlap-group {
+  background-color: var(--white);
+  border-radius: 68px;
+  box-shadow: 10px 10px 20px #00000015;
+  height: 719px;
+  position: relative;
+}
+
+.x1920-project-2 .overlap-group5-1 {
+  height: 429px;
+  left: 8px;
+  position: absolute;
+  top: 59px;
+  width: 621px;
+}
+
+.x1920-project-2 .x5ab418baf4491e52b288dd06b6160cf5 {
+  border-radius: 78.5px;
+  height: 175px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.x1920-project-2 .overlap-group2-2 {
+  height: 426px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 621px;
+}
+
+.x1920-project-2 .name-anamika-jadhav {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 242px;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 297px;
+}
+
+.x1920-project-2 .interests {
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 210px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .surname-3 {
+  left: 287px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 210px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .needs {
+  left: 492px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 210px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .she-spends-her-time {
+  height: 171px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 236px;
+  width: 228px;
+}
+
+.x1920-project-2 .she-is-a-driven-and {
+  height: 125px;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 236px;
+  width: 191px;
+}
+
+.x1920-project-2 .she-wished-to-raise {
+  height: 190px;
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 236px;
+  width: 199px;
+}
+
+.x1920-project-2 .overlap-group1-3 {
+  height: 178px;
+  left: 8px;
+  position: absolute;
+  top: 522px;
+  width: 210px;
+}
+
+.x1920-project-2 .behaviors {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .she-is-a-very-organi {
+  height: 153px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 210px;
+}
+
+.x1920-project-2 .overlap-group4 {
+  height: 178px;
+  left: 233px;
+  position: absolute;
+  top: 522px;
+  width: 191px;
+}
+
+.x1920-project-2 .values {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .she-wishes-to-devote {
+  height: 153px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 191px;
+}
+
+.x1920-project-2 .overlap-group3-2 {
+  height: 178px;
+  left: 431px;
+  position: absolute;
+  top: 522px;
+  width: 199px;
+}
+
+.x1920-project-2 .aspiration {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .she-intends-to-devot {
+  height: 153px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 199px;
+}
+
+.x1920-project-2 .group-1255 {
+  height: 330px;
+  left: 266px;
+  position: absolute;
+  top: 855px;
+  width: 1384px;
+}
+
+.x1920-project-2 .group-1253 {
+  height: 330px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 638px;
+}
+
+.x1920-project-2 .group-1215 {
+  height: 77px;
+  left: 241px;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.x1920-project-2 .x-points {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1214 {
+  background-color: var(--sushi);
+  border-radius: 19px;
+  height: 38px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.x1920-project-2 .icon-awesome-mouse-pointer {
+  height: 24px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.x1920-project-2 .concerned-about-the {
+  height: 236px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+  width: 638px;
+}
+
+.x1920-project-2 .group-1254 {
+  height: 329px;
+  left: 760px;
+  position: absolute;
+  top: 0;
+  width: 626px;
+}
+
+.x1920-project-2 .group-1218 {
+  height: 77px;
+  left: 202px;
+  position: absolute;
+  top: 0;
+  width: 223px;
+}
+
+.x1920-project-2 .group-1217 {
+  background-color: var(--sushi);
+  border-radius: 19px;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.x1920-project-2 .icon-awesome-layer-group {
+  height: 23px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 23px;
+}
+
+.x1920-project-2 .very-forward-thinkin {
+  height: 236px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 626px;
+}
+
+.x1920-project-2 .group-1250 {
+  height: 772px;
+  left: 959px;
+  position: absolute;
+  top: 0;
+  width: 771px;
+}
+
+.x1920-project-2 .overlap-group3 {
+  height: 762px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 770px;
+}
+
+.x1920-project-2 .empathy-mapping {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .line-592 {
+  height: 701px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.x1920-project-2 .line-593 {
+  height: 1px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 412px;
+  width: 701px;
+}
+
+.x1920-project-2 .think-and-feel {
+  left: 273px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 390px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .hear {
+  left: 461px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 390px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .say-and-do {
+  left: 431px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 436px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .see {
+  left: 324px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 436px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .i-should-start-meet {
+  height: 261px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  width: 341px;
+}
+
+.x1920-project-2 .you-look-so-young {
+  height: 212px;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 143px;
+  width: 341px;
+}
+
+.x1920-project-2 .starts-looking-for-p {
+  height: 212px;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 486px;
+  width: 341px;
+}
+
+.x1920-project-2 .looks-for-case-studi {
+  height: 107px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 486px;
+  width: 341px;
+}
+
+.x1920-project-2 .group-1151 {
+  height: 58px;
+  left: 140px;
+  position: absolute;
+  top: 3296px;
+  width: 150px;
+}
+
+.x1920-project-2 .overlap-group4-1 {
+  height: 50px;
+  position: relative;
+  top: 7px;
+}
+
+.x1920-project-2 .rectangle-1442-6 {
+  background-color: var(--christi);
+  height: 19px;
+  left: 48px;
+  position: absolute;
+  top: 32px;
+  width: 102px;
+}
+
+.x1920-project-2 .define-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .group-1169 {
+  height: 773px;
+  left: 278px;
+  position: absolute;
+  top: 3369px;
+  width: 674px;
+}
+
+.x1920-project-2 .overlap-group20 {
+  height: 762px;
+  position: relative;
+  top: 10px;
+}
+
+.x1920-project-2 .persona-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .x2c8f8fac17163329a2403ce01f864e69 {
+  border-radius: 78.5px;
+  height: 175px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 175px;
+}
+
+.x1920-project-2 .name-rajat-agarwal {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 148px;
+  left: 308px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 62px;
+  width: 297px;
+}
+
+.x1920-project-2 .overlap-group1-4 {
+  height: 178px;
+  left: 8px;
+  position: absolute;
+  top: 316px;
+  width: 417px;
+}
+
+.x1920-project-2 .interests-1 {
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .surname-4 {
+  left: 287px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .he-spends-his-weeken {
+  height: 152px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 228px;
+}
+
+.x1920-project-2 .he-is-straightforwar {
+  height: 152px;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 191px;
+}
+
+.x1920-project-2 .overlap-group2-3 {
+  height: 134px;
+  left: 8px;
+  position: absolute;
+  top: 522px;
+  width: 210px;
+}
+
+.x1920-project-2 .discipline-and-hones {
+  height: 109px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 210px;
+}
+
+.x1920-project-2 .overlap-group5-2 {
+  height: 152px;
+  left: 233px;
+  position: absolute;
+  top: 522px;
+  width: 191px;
+}
+
+.x1920-project-2 .he-wants-to-follow-h {
+  height: 127px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 191px;
+}
+
+.x1920-project-2 .overlap-group4-2 {
+  height: 178px;
+  left: 430px;
+  position: absolute;
+  top: 316px;
+  width: 199px;
+}
+
+.x1920-project-2 .needs-1 {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .he-wanted-to-start-a {
+  height: 152px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 199px;
+}
+
+.x1920-project-2 .overlap-group3-3 {
+  height: 174px;
+  left: 431px;
+  position: absolute;
+  top: 522px;
+  width: 199px;
+}
+
+.x1920-project-2 .aspiration-1 {
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .he-spends-more-of-hi {
+  height: 149px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 199px;
+}
+
+.x1920-project-2 .group-1249 {
+  height: 772px;
+  left: 959px;
+  position: absolute;
+  top: 3370px;
+  width: 771px;
+}
+
+.x1920-project-2 .empathy-mapping-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .see-1 {
+  left: 324px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 436px;
+  white-space: nowrap;
+}
+
+.x1920-project-2 .i-think-i-should-st {
+  height: 188px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 143px;
+  width: 341px;
+}
+
+.x1920-project-2 .i-came-to-know-you {
+  height: 163px;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 143px;
+  width: 341px;
+}
+
+.x1920-project-2 .he-tries-to-go-walki {
+  height: 212px;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 486px;
+  width: 341px;
+}
+
+.x1920-project-2 .bloggers-on-you-tube {
+  height: 92px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 489px;
+  width: 341px;
+}

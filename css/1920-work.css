@@ -1,0 +1,760 @@
+/* screen - 1920-work */
+
+.x1920-work {
+  background-color: var(--white);
+  height: 1176px;
+  width: 1920px;
+}
+
+.x1920-work .overlap-group9 {
+  height: 1176px;
+  position: relative;
+}
+
+.x1920-work .selected-work {
+  background-image: url(../img/work-bg@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.x1920-work .overlap-group-1 {
+  height: 117px;
+  left: 753px;
+  position: absolute;
+  top: 835px;
+  width: 414px;
+}
+
+.x1920-work .rectangle-122 {
+  background-color: #98b24c;
+  border-radius: 15px;
+  height: 108px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.x1920-work .rectangle-121 {
+  border-radius: 12px;
+  height: 110px;
+  left: 9px;
+  position: absolute;
+  top: 7px;
+  width: 405px;
+}
+
+.x1920-work .uiux-boot-campapp {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  height: 86px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 385px;
+}
+
+.x1920-work .overlap-group1 {
+  height: 117px;
+  left: 1365px;
+  position: absolute;
+  top: 835px;
+  width: 414px;
+}
+
+.x1920-work .rectangle-122-1 {
+  background-color: var(--vivid-violet);
+  border-radius: 15px;
+  height: 108px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.x1920-work .surname {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  height: 86px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 385px;
+}
+
+.x1920-work .overlap-group2 {
+  height: 251px;
+  left: 140px;
+  position: absolute;
+  top: 94px;
+  width: 566px;
+}
+
+.x1920-work .group-16 {
+  height: 251px;
+  left: 178px;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.x1920-work .path-container {
+  height: 21px;
+  left: 367px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.x1920-work .path-122 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+.x1920-work .path-123 {
+  height: 21px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.x1920-work .icon-feather-arrow-right {
+  background-image: url(../img/path-122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 313px;
+  position: absolute;
+  top: 250px;
+  width: 21px;
+}
+
+.x1920-work .work {
+  color: var(--vivid-violet);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 110px;
+  white-space: nowrap;
+}
+
+.x1920-work .selected {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 111px;
+  white-space: nowrap;
+}
+
+.x1920-work .overlap-group3 {
+  height: 117px;
+  left: 146px;
+  position: absolute;
+  top: 835px;
+  width: 414px;
+}
+
+.x1920-work .rectangle-122-2 {
+  background-color: #ed5c00;
+  border-radius: 15px;
+  height: 108px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.x1920-work .uiux-case-studywe {
+  height: 57px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 385px;
+}
+
+.x1920-work .shri-balaji-global {
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  white-space: nowrap;
+  width: 385px;
+}
+
+.x1920-work .design {
+  cursor: pointer;
+  height: 339px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  transition: all 0.2s ease;
+  width: 593px;
+}
+
+.x1920-work .design:hover {
+  transform: scale(1.1);
+}
+
+.x1920-work .web-1920-48 {
+  cursor: pointer;
+  height: 486px;
+  left: 755px;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  transition: all 0.2s ease;
+  width: 411px;
+}
+
+.x1920-work .web-1920-48:hover {
+  transform: scale(1.1);
+}
+
+.x1920-work .group-1283 {
+  height: 35px;
+  left: 1331px;
+  position: absolute;
+  top: 49px;
+  width: 449px;
+}
+
+.x1920-work .component-36-3 {
+  cursor: pointer;
+  height: 30px;
+  left: 347px;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.x1920-work .overlap-group-2 {
+  height: 32px;
+  position: relative;
+}
+
+.x1920-work .rectangle-1538 {
+  background-color: var(--white);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.x1920-work .place {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x1920-work .rectangle-1539 {
+  cursor: pointer;
+  height: 27px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+
+.x1920-work .rectangle-1539:hover {
+  background-color: #A348A0
+}
+
+.x1920-work .home {
+  cursor: pointer;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.x1920-work .place-1 {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.x1920-work .place-1:hover {
+  color: #A348A0
+}
+
+.x1920-work .work-1 {
+  height: 33px;
+  left: 117px;
+  position: absolute;
+  top: 2px;
+  width: 46px;
+}
+
+.x1920-work .work-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-work .resume {
+  cursor: pointer;
+  height: 33px;
+  left: 225px;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.x1920-work .about {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.x1920-work .about:hover {
+  color: #A348A0
+}
+
+.x1920-work .read-more-1 {
+  cursor: pointer;
+  height: 47px;
+  left: 283px;
+  position: absolute;
+  top: 987px;
+  transition: all 0.2s ease;
+  width: 145px;
+}
+
+.x1920-work .read-more-1:hover {
+  transform: scale(1.2);
+}
+
+.x1920-work .overlap-group {
+  height: 47px;
+  position: relative;
+}
+
+.x1920-work .rectangle-1545 {
+  background-color: #eba274;
+  border-radius: 9px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.x1920-work .rectangle-1544 {
+  border-radius: 9px;
+  height: 45px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 141px;
+}
+
+.x1920-work .read-more {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x1920-work .read-more-2 {
+  cursor: pointer;
+  height: 47px;
+  left: 888px;
+  position: absolute;
+  top: 987px;
+  transition: all 0.2s ease;
+  width: 145px;
+}
+
+.x1920-work .read-more-2:hover {
+  transform: scale(1.2);
+}
+
+.x1920-work .rectangle-1545-1 {
+  background-color: #c0cd9a;
+  border-radius: 9px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.x1920-work .read-more-3 {
+  cursor: pointer;
+  height: 47px;
+  left: 1506px;
+  position: absolute;
+  top: 987px;
+  transition: all 0.2s ease;
+  width: 145px;
+}
+
+.x1920-work .read-more-3:hover {
+  transform: scale(1.2);
+}
+
+.x1920-work .rectangle-1545-2 {
+  background-color: #c698c4;
+  border-radius: 9px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.x1920-work .component-58-2 {
+  cursor: pointer;
+  height: 25px;
+  left: 1658px;
+  position: absolute;
+  top: 1120px;
+  transition: all 0.2s ease;
+  width: 122px;
+}
+
+.x1920-work .component-58-2:hover {
+  transform: scale(1.1);
+}
+
+.x1920-work .overlap-group-3 {
+  height: 20px;
+  left: 95px;
+  position: absolute;
+  top: 2px;
+  width: 27px;
+}
+
+.x1920-work .icon-ionic-ios-arrow-forward {
+  height: 20px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.x1920-work .line-595 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 27px;
+}
+
+.x1920-work .about-me {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1920-work .group-1369 {
+  cursor: pointer;
+  height: 417px;
+  left: 1236px;
+  position: absolute;
+  top: 305px;
+  transition: all 0.2s ease;
+  width: 544px;
+}
+
+.x1920-work .group-1369:hover {
+  transform: scale(1.1);
+}
+
+.x1920-work .overlap-group7 {
+  height: 417px;
+  position: relative;
+}
+
+.x1920-work .group-1281 {
+  height: 285px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 390px;
+}
+
+.x1920-work .img_3805 {
+  height: 316px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 147px;
+}
+
+.x1920-work .group-1277 {
+  height: 285px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 285px;
+}
+
+.x1920-work .group-1341 {
+  cursor: pointer;
+  height: 108px;
+  left: 140px;
+  position: absolute;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 228px;
+}
+
+.x1920-work .group-1341:hover {
+  transform: scale(1.1);
+}
+
+.x1920-work .overlap-group-container {
+  height: 114px;
+  position: relative;
+}
+
+.x1920-work .overlap-group2-1 {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 212px;
+}
+
+.x1920-work .group-5 {
+  height: 69px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 165px;
+}
+
+.x1920-work .overlap-group1-1 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-work .path-119 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-work .path-120 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-work .path-121 {
+  height: 6px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.x1920-work .line-17 {
+  height: 6px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 3px;
+}
+
+.x1920-work .line-18 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x1920-work .shivangi-khandelwal {
+  left: 20px;
+  letter-spacing: 0.16px;
+  line-height: 16px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.x1920-work .path-3798 {
+  height: 48px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 197px;
+}
+
+.x1920-work .path-3801 {
+  height: 22px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 11px;
+}
+
+.x1920-work .path-3802 {
+  height: 12px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 9px;
+}
+
+.x1920-work .path-3937 {
+  height: 12px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 26px;
+}
+
+.x1920-work .path-3936 {
+  height: 7px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 15px;
+}
+
+.x1920-work .path-3938 {
+  height: 12px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 12px;
+}
+
+.x1920-work .overlap-group-4 {
+  height: 21px;
+  left: 204px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x1920-work .path-119-1 {
+  height: 20px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1920-work .path-121-1 {
+  height: 6px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.x1920-work .line-17-1 {
+  height: 6px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 3px;
+}
+
+.x1920-work .line-18-1 {
+  height: 4px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
